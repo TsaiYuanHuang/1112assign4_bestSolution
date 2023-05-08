@@ -1,3 +1,5 @@
+author: B10810035
+
 ## Requirements：
 ### 1-star
 - Randomly generate 10 ghosts on the canvas.
